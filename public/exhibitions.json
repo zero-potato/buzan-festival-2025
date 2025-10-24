@@ -1,0 +1,364 @@
+{
+  "中学1年": [
+    {
+      "group": "中1A",
+      "title": "謎解き迷宮BUZAN",
+      "location": "4階③",
+      "description": "みんなで謎を解いて楽しもう‼︎"
+    },
+    {
+      "group": "中1B・高2G",
+      "title": "プラ板 〜福島ダディダディ〜",
+      "location": "9階化学室",
+      "description": "担任大好き中学1年B組「B–BOYS」とスポーツを愛する男たち高校2年G組「G–BOYS」があなたのために熱くプラ板を焼き上げます！"
+    },
+    {
+      "group": "中1D",
+      "title": "YOUは何しに豊山へ？射的をしに来たんだ！",
+      "location": "4階④",
+      "description": "中学一年D組では射的をしています。ぜひ来てください！"
+    },
+    {
+      "group": "中1E",
+      "title": "天才ギャンブラー「KATO's」",
+      "location": "4階⑤",
+      "description": "E組の愉快な仲間たちと一緒に遊ぼう！！"
+    },
+    {
+      "group": "中1F",
+      "title": "BUZAN合法オフラインカジノ",
+      "location": "4階⑥",
+      "description": "誰でも楽しめるカジノをやっておりますので是非お越しください。"
+    },
+    {
+      "group": "中1学年展示",
+      "title": "中学1年学年展示",
+      "location": "4階⑦",
+      "description": "学年に関する展示を行っています！"
+    }
+  ],
+  "中学2年": [
+    {
+      "group": "中2A",
+      "title": "Round A",
+      "location": "6階⑤",
+      "description": "passion溢れすぎてます！！"
+    },
+    {
+      "group": "中2B",
+      "title": "合法カジノ",
+      "location": "6階⑥",
+      "description": "女の子大歓迎"
+    },
+    {
+      "group": "中2C",
+      "title": "ウマ息子ハンサムダービーとフォトスポット",
+      "location": "6階⑦",
+      "description": "頑張って面白くしたので来てください"
+    },
+    {
+      "group": "中2F",
+      "title": "We are カジノ",
+      "location": "6階⑧",
+      "description": "闇社会へようこそ"
+    },
+    {
+      "group": "中2学年展示",
+      "title": "中学2年学年展示",
+      "location": "6階④",
+      "description": "学年に関する展示を行っています！"
+    }
+  ],
+  "中学3年": [
+    {
+      "group": "中3A",
+      "title": "Casino Noguchi",
+      "location": "4階⑧",
+      "description": "ルールが分からない人でも是非来てください！！"
+    },
+    {
+      "group": "中3B",
+      "title": "迷イノ迷路",
+      "location": "4階⑨",
+      "description": "君たちはこの迷路から脱出出来るか！？"
+    },
+    {
+      "group": "中3D",
+      "title": "ラブラブ！大運動会",
+      "location": "4階⑩",
+      "description": "全員でかわいくマッチョになりましょう！"
+    },
+    {
+      "group": "中3E",
+      "title": "一獲千金カジノ",
+      "location": "4階⑪",
+      "description": "カジノで一緒に楽しみましょう"
+    },
+    {
+      "group": "中3学年展示",
+      "title": "中学3年学年展示",
+      "location": "4階⑫",
+      "description": "学年に関する展示を行っています！"
+    }
+  ],
+  "高校1年": [
+    {
+      "group": "高1B",
+      "title": "8番出口",
+      "location": "8階②",
+      "description": "君はこの異変に気づけるか⁉︎"
+    },
+    {
+      "group": "高1D",
+      "title": "ジュラシックワールド",
+      "location": "8階④",
+      "description": "『それ』はすぐそこに迫っている"
+    },
+    {
+      "group": "高1E",
+      "title": "西尾summer",
+      "location": "8階⑤",
+      "description": "ただの夏祭りだと思うなよ"
+    },
+    {
+      "group": "高1F",
+      "title": "今日脱獄したくなりました〜ブザン編〜",
+      "location": "8階⑥",
+      "description": "現役男子高校生たちの脱獄リアリティーショー"
+    },
+    {
+      "group": "高1I",
+      "title": "オーロ・ジャクソン号",
+      "location": "8階⑨",
+      "description": "海賊になりきってお宝を掴み取れ！！老若男女楽しめるシューティングアトラクション！"
+    },
+    {
+      "group": "高1J",
+      "title": "絶対に勝てるカジノ！",
+      "location": "8階⑩",
+      "description": "来てくれよなBROー！"
+    }
+  ],
+  "高校2年": [
+    {
+      "group": "高2A",
+      "title": "モールドール",
+      "location": "7階①",
+      "description": "とっても可愛い人形が作れちゃうので是非来てください！"
+    },
+    {
+      "group": "高2B",
+      "title": "君の気持ちにストライク",
+      "location": "7階②",
+      "description": "2年B組ではユニバのカーニバルゲームをモチーフにしたゲームを楽しめます。挑戦して下さい！"
+    },
+    {
+      "group": "高2C",
+      "title": "スペースシューティング",
+      "location": "7階③",
+      "description": "得点に合わせて景品がもらえます。頑張って的を倒しましょう!"
+    },
+    {
+      "group": "高2D",
+      "title": "14番出口",
+      "location": "7階④",
+      "description": "同じ景色、同じ音。しかし何かが違う…"
+    },
+    {
+      "group": "高2F",
+      "title": "おばか屋敷〜おばけより怖いぜ〜",
+      "location": "7階⑥",
+      "description": "花より男子(だんご)、バカなら最高。"
+    },
+    {
+      "group": "高2H",
+      "title": "CH3 COOH",
+      "location": "7階⑧",
+      "description": "僕たち（受験には）滑りません！"
+    },
+    {
+      "group": "高2I",
+      "title": "USB(ユニバーサル・スタジオ・豊山)",
+      "location": "7階⑨",
+      "description": "投げて！当てて！盛り上がれ！"
+    },
+    {
+      "group": "高2J",
+      "title": "星なんじゃないかな　ミサンガですね。",
+      "location": "7階⑩",
+      "description": "ミサンガと星の砂作ります"
+    },
+    {
+      "group": "高2L",
+      "title": "イカゲーム",
+      "location": "7階⑫",
+      "description": "ようこそ！イカれたゲームへ！"
+    },
+    {
+      "group": "高2M",
+      "title": "マリンアイランド",
+      "location": "7階⑬",
+      "description": "夢の国からやつが仲間をつれてやってきた！カメと一緒にミニゲームを楽しもう！！"
+    }
+  ],
+  "高校3年": [
+    {
+      "group": "高3A",
+      "title": "花の園",
+      "location": "6階①",
+      "description": "楽しいから来てね！"
+    },
+    {
+      "group": "高3B",
+      "title": "泣く子も黙る安藤のメイドカジノ　萌えの大迫力の大勝負",
+      "location": "6階②",
+      "description": ""
+    },
+    {
+      "group": "高3D",
+      "title": "みんなが好きなアレ",
+      "location": "6階③",
+      "description": "💀"
+    },
+    {
+      "group": "高3I",
+      "title": "ひらがなだけじゃだめですか？",
+      "location": "6階⑨",
+      "description": "ひらがなポーカーを使って世代、性別を超えてお客様を楽しませます！"
+    },
+    {
+      "group": "高3J",
+      "title": "フォトスポット　〜？？？？？編〜",
+      "location": "6階⑩",
+      "description": "写真撮っちゃうぞ❤️"
+    },
+    {
+      "group": "高3K",
+      "title": "豊山のティーパーティー",
+      "location": "6階⑪",
+      "description": "頭からつま先までぐーるぐる、漢が回すコーヒーカップを体感せよ！"
+    },
+    {
+      "group": "高3L",
+      "title": "𝒑𝒍𝒂-𝒃𝒂𝒓'𝑳組'",
+      "location": "6階⑫",
+      "description": "思い出を形に‼︎ プラバン、作ってみませんか?"
+    }
+  ],
+  "部活動・委員会": [
+    {
+      "group": "放送部",
+      "title": "ギャラクシーボウリング",
+      "location": "",
+      "description": "グリーンバックを使用した合成技術で、まるで宇宙空間にいるような感覚でボウリングをすることができます！ぜひお越しください！"
+    },
+    {
+      "group": "文芸部",
+      "title": "文芸部『金雀枝』",
+      "location": "7階⑦",
+      "description": "部員たちが自信を持ってお送りする文芸作品集"
+    },
+    {
+      "group": "写真部",
+      "title": "写真部2025",
+      "location": "8階⑬",
+      "description": "部員が撮った写真を展示しています。 ポストカードも配布しているので， ぜひ来てください！"
+    },
+    {
+      "group": "書道部",
+      "title": "好きな字書きます！(体験も可)",
+      "location": "9階書道室",
+      "description": "好きな字書きます。"
+    },
+    {
+      "group": "囲碁部",
+      "title": "囲碁部においで❗️初心者も熟練者も　番外編、架空数学研究会からの挑戦状(面白い問題を用意)",
+      "location": "8階⑦",
+      "description": "囲碁部･･･対局しよう❗️ルールが分からない人には説明するよ。コーチもいます。　番外編･･･面白い数学の問題を用意しました。ぜひ解いてみてね！"
+    },
+    {
+      "group": "模型部",
+      "title": "模型部作品展示会",
+      "location": "9階技術室",
+      "description": "部員が作った作品などを展示しています。"
+    },
+    {
+      "group": "美術部",
+      "title": "美術部's 展覧会",
+      "location": "7階⑤",
+      "description": "美術部の素敵な作品を華々しく飾っています！"
+    },
+    {
+      "group": "将棋部",
+      "title": "ワクワクドクドク将棋対局",
+      "location": "8階⑧",
+      "description": "初心者歓迎！"
+    },
+    {
+      "group": "物理部",
+      "title": "秘伝の物理　ーかわいいだけじゃだめですか？ー",
+      "location": "9階物理室",
+      "description": "物理部では、身近な現象をわかりやすく紹介する実験や展示を行っています。磁石や光を使った実験、力学を体感できる模型など、普段の授業とは少し違った角度から物理を楽しめる内容です。"
+    },
+    {
+      "group": "高校電子計算機部",
+      "title": "高校電子計算機部",
+      "location": "7階コンピューター教室",
+      "description": "自作ゲームとロボット・3Dプリンターを展示します。興味のある方はぜひコンピュータールームにお越しください"
+    },
+    {
+      "group": "中学電子計算機部",
+      "title": "中学電子計算機部",
+      "location": "7階コンピューター教室",
+      "description": "部員たちが作ったゲームがここに！"
+    },
+    {
+      "group": "鉄道部",
+      "title": "Buzan Train Park",
+      "location": "3階⑥",
+      "description": "鉄道模型と運転シュミレーターやってます！"
+    },
+    {
+      "group": "芸能部",
+      "title": "まじまじマジック",
+      "location": "3階⑦",
+      "description": "本気(まじ)でマジックやります"
+    },
+    {
+      "group": "中学理科部",
+      "title": "サイエンスパフォーマー2025",
+      "location": "9階理科実験室",
+      "description": "スライムやバスボム作成、演示実験などやります！ぜひ来てください！！"
+    },
+    {
+      "group": "生物部",
+      "title": "Biology Lab",
+      "location": "9階生物室",
+      "description": "金魚すくいやってます"
+    },
+    {
+      "group": "英語部",
+      "title": "スーパーボールすくい",
+      "location": "8階⑫",
+      "description": "ボールをすくって単語作り！"
+    },
+    {
+      "group": "保健委員会",
+      "title": "ミニ健康診断",
+      "location": "8階①",
+      "description": "「ミニ健康診断」ではアルコール分解能力、身長、握力、視力の測定ができます。20分程度で全項目の測定ができるので、ぜひお立ち寄りください。"
+    },
+    {
+      "group": "ミニ鉄道",
+      "title": "そうだ！ミニ電車に乗ろう！",
+      "location": "1階大会議室",
+      "description": "誰でも楽しめるミニ鉄道に乗って、特別な体験を楽しもう！みなさまのご乗車、お待ちしております！"
+    },
+    {
+      "group": "Q &A",
+      "title": "高校入試・中学入試Q＆A",
+      "location": "4階①②",
+      "description": "入試に関するQ＆Aはこちら！"
+    }
+  ]
+}

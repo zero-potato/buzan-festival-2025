@@ -1,0 +1,32 @@
+[
+  {
+    "group": "高1H",
+    "title": "俺のクレープ",
+    "location": "3階②",
+    "description": "17センチの至福"
+  },
+  {
+    "group": "高2E",
+    "title": "mister churros",
+    "location": "3階④",
+    "description": "いつチュロスの？今でしょ！"
+  },
+  {
+    "group": "高2K",
+    "title": "バナナの誘惑",
+    "location": "3階④",
+    "description": "濃厚なチョコがバナナを包み込む、禁断の甘さ！"
+  },
+  {
+    "group": "高3C",
+    "title": "トルネードとベビーカステラ",
+    "location": "3階③",
+    "description": "甘さとジューシーのハーモニーで、心もおなかも大満足"
+  },
+  {
+    "group": "高3H",
+    "title": "爆コーン柴田",
+    "location": "3階②",
+    "description": "5種類のflavorのポップコーンが楽しめる。SHAKASHAKA振って楽しもう。"
+  }
+]
